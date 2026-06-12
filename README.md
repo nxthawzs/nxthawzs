@@ -1,6 +1,6 @@
-# Olá, eu sou o Nathan Lot 👋
+# Olá, eu sou o Nathan Lot :)
 
-Sou estudante de Análise e Desenvolvimento de Sistemas na FATEC São Caetano do Sul, em busca de uma oportunidade de estágio na área de Tecnologia da Informação.
+Sou estudante de Análise e Desenvolvimento de Sistemas na FATEC São Caetano do Sul, em busca de uma oportunidade de estágio na área de T.I.
 
 Atualmente estou estudando e praticando:
 
@@ -11,7 +11,7 @@ Atualmente estou estudando e praticando:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualbasic/visualbasic-original.svg" width="40" title="VBScript" />
 </div>
 
-# Projetos em destaque
+# Projetos 
 
 - Sistema de controle de acesso e segurança em PowerShell
 - Scripts de automação para atividades de Sistemas Operacionais
@@ -19,6 +19,6 @@ Atualmente estou estudando e praticando:
 
 # Objetivo
 
-Busco evoluir como desenvolvedor iniciante, aplicando meus conhecimentos em projetos práticos, automação de tarefas e soluções voltadas para empresas.
+Busco evoluir como desenvolvedor iniciante, aplicando meus conhecimentos nas tarefas que me forem designadas, seja automação de tarefas, soluções voltadas para empresas e apoio às demandas da equipe.
 
 

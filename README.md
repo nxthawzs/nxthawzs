@@ -1,23 +1,25 @@
-# Olá, eu sou o Nathan 👋
+# Olá, eu sou o Nathan Lot 👋
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas na FATEC São Caetano do Sul.
+Sou estudante de Análise e Desenvolvimento de Sistemas na FATEC São Caetano do Sul, em busca de uma oportunidade de estágio na área de Tecnologia da Informação.
 
-💻 Atualmente estudando:
+Atualmente estou estudando e praticando:
+
 - Python
-- VBS
-- Batch
+- PowerShell
+- Batch e VBScript
 - Lógica de Programação
+- Banco de Dados
 - Excel
 
-📚 Em busca de oportunidades na área de tecnologia para desenvolver experiência, evoluir minhas habilidades e crescer profissionalmente.
+## Projetos em destaque
 
-## Projetos 💻
+- Sistema de controle de acesso e segurança em PowerShell
+- Scripts de automação para atividades de Sistemas Operacionais
+- Sistema acadêmico de floricultura desenvolvido em Access
 
-Alguns projetos desenvolvidos em sala de aula e outros como trabalhos acadêmicos:
+## Objetivo
 
-- Scripts em PowerShell
-- Sistema de Floricultura
-- Projetos em BAT/VBS/Python
+Busco evoluir como desenvolvedor iniciante, aplicando meus conhecimentos em projetos práticos, automação de tarefas e soluções voltadas para empresas.
 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
